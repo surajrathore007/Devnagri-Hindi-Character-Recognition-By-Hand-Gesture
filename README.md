@@ -1,8 +1,7 @@
-# Devnagri Hindi Character Recognition By Hand Gesture
+#### Devnagri Hindi Character Recognition By Hand Gesture
 
 You can install Conda for python which resolves all the dependencies for machine learning.
 
-# Description
 This code successfully recognizes hindi characters.
 
 # Technique Used
@@ -37,8 +36,10 @@ I am using Tensorflow as the framework and Keras API for providing a high level 
 ![image](https://user-images.githubusercontent.com/29300053/51090956-c8f63000-17a9-11e9-9a26-2c69f14fecf3.png)
 
 
+
 ![image](https://user-images.githubusercontent.com/29300053/51090972-e75c2b80-17a9-11e9-87d1-63f585a26465.png)
 
 
+Predicted Value is Checked and displayed at Bottom.
 ![image](https://user-images.githubusercontent.com/29300053/51090977-00fd7300-17aa-11e9-97c3-b3c839961ca0.png)
 
